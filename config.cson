@@ -1,0 +1,20 @@
+'editor':
+  'fontSize': 15
+  'fontFamily': 'Menlo'
+  'showIndentGuide': true
+  'showInvisibles': true
+'core':
+  'themes': [
+    'seti-ui'
+    'seti-syntax'
+  ]
+  'useReactEditor': true
+  'disabledPackages': [
+    'wrap-guide'
+  ]
+'exception-reporting':
+  'userId': '12203b2b-5d5a-96da-627f-f846376427fa'
+'welcome':
+  'showOnStartup': false
+'metrics':
+  'userId': '8fe05aa732504c583e0b49009c4fdb9fd58379db'

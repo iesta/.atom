@@ -1,0 +1,30 @@
+{
+  "name": "swift-playground",
+  "main": "./lib/swift_playground",
+  "version": "0.1.1",
+  "description": "Execute the current file with Swift.",
+  "activationEvents": [
+    "swift-playground:execute"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tachiba/atom-swift-playground"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {},
+  "readme": "# execute-as-swift package\n\n![A screenshot of execute-as-swift package](https://cloud.githubusercontent.com/assets/529660/3209808/8fc3f462-ee8b-11e3-8108-45cccba639e1.gif)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/tachiba/atom-swift-playground/issues"
+  },
+  "homepage": "https://github.com/tachiba/atom-swift-playground",
+  "_id": "swift-playground@0.1.1",
+  "dist": {
+    "shasum": "7f26800aaa1946161f9f1ec50db468b920312036"
+  },
+  "_resolved": "/var/folders/kv/qvrtsyn1513g_sfqc1d9zzyh0000gn/T/d-11463-32749-19hhq6j/package.tgz",
+  "_from": "/var/folders/kv/qvrtsyn1513g_sfqc1d9zzyh0000gn/T/d-11463-32749-19hhq6j/package.tgz"
+}
